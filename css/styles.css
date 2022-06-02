@@ -2,11 +2,36 @@
   display: none
 }
 
+.definition-showing1 {
+  display: none;
+}
+
+.definition-showing2 {
+  display: none;
+}
+
 .clickable {
   cursor: pointer;
   color: blue;
 }
 
 .clickable:hover {
+  text-decoration: underline;
+}
+
+.clickable1 {
+  cursor: pointer;
+  color: blue;
+}
+
+.clickable1:hover {
+  text-decoration: underline;
+}
+.clickable2 {
+  cursor: pointer;
+  color: blue;
+}
+
+.clickable2:hover {
   text-decoration: underline;
 }
